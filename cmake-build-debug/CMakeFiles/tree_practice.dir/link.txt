@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\tree_practice.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\tree_practice.dir/objects.a @CMakeFiles\tree_practice.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\tree_practice.dir/objects.a -Wl,--no-whole-archive  -o tree_practice.exe -Wl,--out-implib,libtree_practice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tree_practice.dir\linklibs.rsp
